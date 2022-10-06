@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "title": "Designer Men's Hoodies",
+        "price": 40,
+        "address": "936 West End Ave, New York, NY 10025 ",
+        "category": "Hoodies",
+        "image": "/images/image1.jpeg",
+        "color": "Black",
+        "size": "xl"
+    },
+    {
+        "id": 2,
+        "title": "best-hoodies-and-sweatshirts  ",
+        "price": 53,
+        "address": "12 W 44TH St, New York, NY 10036 .",
+        "category": "Hoodies",
+        "image": "/images/image2.jpeg",
+        "color": "Red",
+        "size": "xl"
+    },
+    {
+        "id": 3,
+        "title": "sweatshirts-&-hoodies",
+        "price": 35,
+        "address": "401 E 34th St, New York, NY 10016",
+        "category": "Hoodies",
+        "image": "/images/image3.jpeg",
+        "color": "Red",
+        "size": "xl"
+    },
+    {
+        "id": 4,
+        "title": "EOS Hoodies",
+        "price": 21,
+        "address": "100 W 31st St, New York, NY 10017",
+        "category": "Hoodies",
+        "image": "/images/image4.jpeg",
+        "color": "Green",
+        "size": "xl"
+    },
+    {
+        "id": 5,
+        "title": "271 W 47th St Hoodies",
+        "price": 1100,
+        "address": "271 W 47th St, New York, NY 10027",
+        "category": "Hoodies",
+        "image": "/images/image5.jpeg",
+        "color": "Chocolati",
+        "size": "xl"
+    },
+    {
+        "id": 6,
+        "title": " Towers Hoodies ",
+        "price": 22,
+        "address": "315 W 57th St, New York, NY 10045.",
+        "category": "Hoodies",
+        "image": "/images/image6.jpeg",
+        "color": "Yellow",
+        "size": "xxl"
+    },
+    {
+        "id": 7,
+        "title": "New York Hoodies",
+        "price": 24,
+        "address": "401 E 34th St, New York, NY 10016",
+        "category": "Hoodies",
+        "image": "/images/image7.jpeg",
+        "color": "Yellow",
+        "size": "xxl"
+    },
+    {
+        "id": 8,
+        "title": "The Ritz Hoodies",
+        "price": 15,
+        "address": "235 W 48th St, New York, NY 10018",
+        "category": "Hoodies",
+        "image": "/images/image8.jpeg",
+        "color": "White",
+        "size": "xxl"
+    },
+    {
+        "id": 9,
+        "title": "Cubic Hoodies",
+        "price": 12,
+        "address": "235 W 48th St, New York, NY 10036",
+        "category": "Hoodies",
+        "image": "/images/image9.jpeg",
+        "color": "Light Blue",
+        "size": "xxl"
+    },
+    {
+        "id": 10,
+        "title": "Shamco Hoodies",
+        "price": 14,
+        "address": "85 shamco St, New York, NY 10021",
+        "category": "Hoodies",
+        "image": "/images/image10.jpeg",
+        "color": "Black",
+        "size": "xxl"
+    },
+    {
+        "id": 11,
+        "title": " Wall Hoodies",
+        "price": 13,
+        "address": "95 Wall St, New York, NY 10051",
+        "category": "Hoodies",
+        "image": "/images/image11.jpeg",
+        "color": "White",
+        "size": "xxxl"
+    },
+    {
+        "id": 12,
+        "title": "Apex Hoodies",
+        "price": 13,
+        "address": "401 E 34th St, New York, NY 10016",
+        "category": "Hoodies",
+        "image": "/images/image12.jpeg",
+        "color": "Grey",
+        "size": "xxxl"
+    },
+    {
+        "id": 13,
+        "title": "282 Cabrini Boulevard",
+        "price": 55,
+        "address": "282 Cabrini Blvd, New York, NY 10014",
+        "category": "Hoodies",
+        "image": "/images/image13.jpeg",
+        "color": "Blue",
+        "size": "xxxl"
+    },
+    {
+        "id": 14,
+        "title": "Herald Hoodies ",
+        "price": 33,
+        "address": "50 W 34th St, New York, NY 10011",
+        "category": "Hoodies",
+        "image": "/images/image14.jpeg",
+        "color": "Chocolati",
+        "size": "xxxl"
+    },
+    {
+        "id": 15,
+        "title": " Hanover Hoodies",
+        "price": 19,
+        "address": "10 Hanover Sq, New York, NY 10017",
+        "category": "Hoodies",
+        "image": "/images/image15.jpeg",
+        "color": "Red",
+        "size": "xxxl"
+    },
+    {
+        "id": 16,
+        "title": " Wall T-shirt",
+        "price": 30,
+        "address": "95 Wall St, New York, NY 100015",
+        "category": "T-shirt",
+        "image": "/images/image16.jpeg",
+        "color": "White",
+        "size": "xl"
+    },
+    {
+        "id": 17,
+        "title": "Centric T-shirt",
+        "price": 50,
+        "address": "401 E 34th St, New York, NY 10016.",
+        "category": "T-shirt",
+        "image": "/images/image17.jpeg",
+        "color": "Black",
+        "size": "xl"
+    },
+    {
+        "id": 18,
+        "title": " Water T-shirt",
+        "price": 40,
+        "address": "180 Water St, New York, NY 10038",
+        "category": "T-shirt",
+        "image": "/images/image18.jpeg",
+        "color": "Pink",
+        "size": "xl"
+    },
+    {
+        "id": 19,
+        "title": " Broome T-shirt",
+        "price": 48,
+        "address": "248 Broome St, New York, NY 10018",
+        "category": "T-shirt",
+        "image": "/images/image19.jpeg",
+        "color": "Grey",
+        "size": "xl"
+    },
+    {
+        "id": 20,
+        "title": " West T-shirt",
+        "price": 31,
+        "address": "610 W 150th St, New York, NY 10036",
+        "category": "T-shirt",
+        "image": "/images/image20.jpeg",
+        "color": "Blue",
+        "size": "xl"
+    },
+    {
+        "id": 21,
+        "title": "VIA T-shirt",
+        "price": 32,
+        "address": "936 West End , New York, NY 10028 ",
+        "category": "T-shirt",
+        "image": "/images/image21.jpeg",
+        "color": "Dark Grey",
+        "size": "xxl"
+    },
+    {
+        "id": 22,
+        "title": " Western T-shirt  ",
+        "price": 27,
+        "address": "209 West 108th Street, New York, NY 10036 .",
+        "category": "T-shirt",
+        "image": "/images/image22.jpeg",
+        "color": "Grey",
+        "size": "xxl"
+    },
+    {
+        "id": 23,
+        "title": " Fort DC T-shirt",
+        "price": 18,
+        "address": "700 Fort Washington Ave, New York, NY 10017",
+        "category": "T-shirt",
+        "image": "/images/image23.jpeg",
+        "color": "White",
+        "size": "xxl"
+    },
+    {
+        "id": 24,
+        "title": "FRANK T-shirt",
+        "price": 31,
+        "address": "600 W 58th St, New York, NY 10018",
+        "category": "T-shirt",
+        "image": "/images/image24.jpeg",
+        "color": "Blue",
+        "size": "xxl"
+    },
+    {
+        "id": 25,
+        "title": "Steph T-shirt",
+        "price": 31,
+        "address": "Steph Street, New York, NY 10028",
+        "category": "T-shirt",
+        "image": "/images/image25.jpeg",
+        "color": "Red",
+        "size": "xxl"
+    },
+    {
+        "id": 26,
+        "title": "Down T-shirt ",
+        "price": 34,
+        "address": "Down North, New York, NY 10045.",
+        "category": "T-shirt",
+        "image": "/images/image26.jpeg",
+        "color": "Blue",
+        "size": "xxxl"
+    },
+    {
+        "id": 27,
+        "title": "401 T-shirt",
+        "price": 34,
+        "address": "401 F 35th St, New York, NY 10020",
+        "category": "T-shirt",
+        "image": "/images/image27.jpeg",
+        "color": "Dark Blue",
+        "size": "xxxl"
+    },
+    {
+        "id": 28,
+        "title": "The Reen T-shirt",
+        "price": 35,
+        "address": "Reen, New York, NY 10011",
+        "category": "T-shirt",
+        "image": "/images/image28.jpeg",
+        "color": "Yellow",
+        "size": "xxxl"
+    },
+    {
+        "id": 29,
+        "title": " Y T-shirt",
+        "price": 41,
+        "address": "235 Y 49th St, New York, NY 10036",
+        "category": "T-shirt",
+        "image": "/images/image29.jpeg",
+        "color": "Green",
+        "size": "xxxl"
+    },
+    {
+        "id": 30,
+        "title": "Jhon T-shirt",
+        "price": 44,
+        "address": "Jhon Street, New York,NY 10036",
+        "category": "T-shirt",
+        "image": "/images/image30.jpeg",
+        "color": "Light Green",
+        "size": "xxxl"
+    },
+    {
+        "id": 31,
+        "title": "Waterside shirts",
+        "price": 13,
+        "address": "Waterside, New York, NY 10051",
+        "category": "shirts",
+        "image": "/images/image31.jpeg",
+        "color": "Red",
+        "size": "xl"
+    },
+    {
+        "id": 32,
+        "title": "The Helena shirts",
+        "price": 114,
+        "address": "601 W 57th St, New York, NY 100016",
+        "category": "shirts",
+        "image": "/images/image32.jpeg",
+        "color": "Blue",
+        "size": "xl"
+    },
+    {
+        "id": 33,
+        "title": "Modern Living shirts ",
+        "price": 15,
+        "address": "50 West St,  New York, NY 100014",
+        "category": "shirts",
+        "image": "/images/image33.jpeg",
+        "color": "Green",
+        "size": "xl"
+    },
+    {
+        "id": 34,
+        "title": " Broad Street shirts ",
+        "price": 90,
+        "address": "50 W 34th St, New York, NY 100011",
+        "category": "shirts",
+        "image": "/images/image34.jpeg",
+        "color": "Red",
+        "size": "xl"
+    },
+    {
+        "id": 35,
+        "title": "110 Wall shirts",
+        "price": 19,
+        "address": "110 Wall St, New York, NY 100017",
+        "category": "shirts",
+        "image": "/images/image35.jpeg",
+        "color": "Blue",
+        "size": "xl"
+    },
+    {
+        "id": 36,
+        "title": "Cubic shirts",
+        "price": 20,
+        "address": "310 E 53rd St, New York, NY 100015",
+        "category": "shirts",
+        "image": "/images/image36.jpeg",
+        "color": "Black",
+        "size": "xxl"
+    },
+    {
+        "id": 37,
+        "title": "Marquis shirts",
+        "price": 22,
+        "address": "401 E 34th St, New York, NY 100018.",
+        "category": "shirts",
+        "image": "/images/image37.jpeg",
+        "color": "Red",
+        "size": "xxl"
+    },
+    {
+        "id": 38,
+        "title": " End shirts",
+        "price": 21,
+        "address": "936 West End Ave, New York, NY 100038",
+        "category": "shirts",
+        "image": "/images/image38.jpeg",
+        "color": "Yellow",
+        "size": "xxl"
+    },
+    {
+        "id": 39,
+        "title": " Cooper shirts",
+        "price": 28,
+        "address": "11 Cooper St, New York, NY 100038",
+        "category": "shirts",
+        "image": "/images/image39.jpeg",
+        "color": "Green",
+        "size": "xxl"
+    },
+    {
+        "id": 40,
+        "title": " Pinehurst shirts",
+        "price": 18,
+        "address": "183 Pinehurst Ave, New York, NY 100036",
+        "category": "shirts",
+        "image": "/images/image40.jpeg",
+        "color": "White",
+        "size": "xxl"
+    },
+    {
+        "id": 41,
+        "title": "784 Columbus Avenue",
+        "price": 22,
+        "address": "784 Columbus Avenue, New York, NY 10022 ",
+        "category": "shirts",
+        "image": "/images/image41.jpeg",
+        "color": "Orange",
+        "size": "xxxl"
+    },
+    {
+        "id": 42,
+        "title": " flemengo shirts  ",
+        "price": 20,
+        "address": "605 W 112th St, New York, NY 10037 .",
+        "category": "shirts",
+        "image": "/images/image42.jpeg",
+        "color": "Grey",
+        "size": "xxxl"
+    },
+    {
+        "id": 43,
+        "title": " Ludlow shirts",
+        "price": 18,
+        "address": "163 Ludlow St, New York, NY 10016",
+        "category": "shirts",
+        "image": "/images/image43.jpeg",
+        "color": "Yellow",
+        "size": "xxxl"
+    },
+    {
+        "id": 44,
+        "title": "535 shirts",
+        "price": 21,
+        "address": "535 W 43rd Street, New York, NY 10018",
+        "category": "shirts",
+        "image": "/images/image44.jpeg",
+        "color": "Light Blue",
+        "size": "xxxl"
+    },
+    {
+        "id": 45,
+        "title": " West shirts",
+        "price": 11,
+        "address": "567 West 170th Street, New York, NY 10027",
+        "category": "shirts",
+        "image": "/images/image45.jpeg",
+        "color": "White",
+        "size": "xxxl"
+    }
+]
